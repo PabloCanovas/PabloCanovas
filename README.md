@@ -4,7 +4,7 @@ I am Pablo Cánovas, physicist turned Data Scientist.
 
 Focused on personal development, I am a self-taught person that enjoy learning and facing new challenges.
 
-### Interests
+### 💭 Interests
  * Data Science applied to Business
  * AI & ML 
  * Algorithmic Trading & Financial Markets
