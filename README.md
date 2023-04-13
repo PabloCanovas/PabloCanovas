@@ -9,7 +9,6 @@ Focused on personal development, I am a self-taught person that enjoy learning a
  * AI & ML 
  * Algorithmic Trading & Financial Markets
  * Uncertainty & Risk Management
- * 
 
 ### 🔨 I’m currently working on...
  * A web application to stay on top of financial markets
