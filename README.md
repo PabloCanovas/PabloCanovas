@@ -7,8 +7,7 @@ Focused on personal development, I am a self-taught person that enjoy learning a
 ### Interests
  * Data Science applied to Business
  * AI & ML 
- * Algorithmic Trading
- * Financial Markets
+ * Algorithmic Trading & Financial Markets
  * Uncertainty & Risk Management
  * Real State 
 
